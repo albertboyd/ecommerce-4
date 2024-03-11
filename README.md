@@ -12,13 +12,13 @@
 <h1 align="center">ChiqueChick</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/jeffjiang13/ecommerce-4?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/albertboyd/ecommerce-4?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/jeffjiang13/ecommerce-4?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/albertboyd/ecommerce-4?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/jeffjiang13/ecommerce-4?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/albertboyd/ecommerce-4?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/jeffjiang13/ecommerce-4?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/albertboyd/ecommerce-4?color=56BEB8">
 
 An online clothing store application built with React, Chakra UI, and a custom back-end server. The application offers a seamless shopping experience for users to browse, search, and purchase clothing items. Users can also manage their account, view their order history, and maintain a list of favorite items.
 
@@ -74,7 +74,7 @@ An online clothing store application built with React, Chakra UI, and a custom b
 Clone the repository
 
 ```
-git clone https://github.com/jeffjiang13/ecommerce-4
+git clone https://github.com/albertboyd/ecommerce-4
 ```
 
 After getting the starter files, you must to go both file directories and run

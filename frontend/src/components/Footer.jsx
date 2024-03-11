@@ -54,7 +54,7 @@ const Footer = () => {
       </Container>
       <Box bg='facebook.500' display='flex' justifyContent='center' color={'white'}
       >
-        <Text colorScheme='blackAlpha' fontSize={20} p={5} >Made by <a href='https://github.com/jeffjiang13' rel='noreferrer' target='_blank' ><i>Jeff Jiang. </i></a>All Rights Reserved.</Text>
+        <Text colorScheme='blackAlpha' fontSize={20} p={5} >Made by <a href='https://github.com/albertboyd' rel='noreferrer' target='_blank' ><i>Albert Boyd. </i></a>All Rights Reserved.</Text>
       </Box>
     </Box>
   )
